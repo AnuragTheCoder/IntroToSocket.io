@@ -33,4 +33,13 @@ This project demonstrates a simple real-time chat application using **Socket.IO*
 
 ```bash
 git clone https://github.com/yourusername/socketio-intro.git
-cd socketio-intro
+setup client
+cd client
+npm i
+npm run dev
+//set up server
+cd ..
+cd server
+npm i
+npm run dev
+
