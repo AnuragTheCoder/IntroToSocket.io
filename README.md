@@ -7,8 +7,7 @@ This project demonstrates a simple real-time chat application using **Socket.IO*
 
 ## 📸 Preview
 
-![Socket.IO Chat Preview](./Screenshot 2025-05-25 091956.png)
-
+![Preview](./Screenshot%202025-05-25%20091956.png)
 ---
 
 ## 🧰 Tech Stack
